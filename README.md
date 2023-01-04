@@ -16,5 +16,5 @@ our smart home app will be installed in the first way till developing it and tur
 6. Tasker action plugin included
 
 
-![WhatsApp Image 2022-12-22 at 1 30 03 AM (2)](https://user-images.githubusercontent.com/84755590/210462019-1bc82357-3330-4296-ab0e-70e4c39c42b3.jpeg) ![WhatsApp Image 2022-12-22 at 1 30 03 AM](https://user-images.githubusercontent.com/84755590/210462065-9dac833f-a197-4bd4-9937-885d9c272916.jpeg) ![WhatsApp Image 2022-12-22 at 1 30 04 AM](https://user-images.githubusercontent.com/84755590/210462079-9a8cc01c-a889-4e28-9e31-13c7541941ad.jpeg)
+![WhatsApp Image 2022-12-22 at 1 30 03 AM (2)](https://user-images.githubusercontent.com/84755590/210462019-1bc82357-3330-4296-ab0e-70e4c39c42b3.jpeg)    ![WhatsApp Image 2022-12-22 at 1 30 03 AM](https://user-images.githubusercontent.com/84755590/210462065-9dac833f-a197-4bd4-9937-885d9c272916.jpeg)   ![WhatsApp Image 2022-12-22 at 1 30 04 AM](https://user-images.githubusercontent.com/84755590/210462079-9a8cc01c-a889-4e28-9e31-13c7541941ad.jpeg)
 
